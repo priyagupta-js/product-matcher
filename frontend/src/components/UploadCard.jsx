@@ -1,7 +1,7 @@
 import React, { useRef, useState } from "react";
 import { Upload, Link2 } from "lucide-react";
 
-const UploadCardPhase1 = () => {
+const UploadCard = () => {
   const [imageFile, setImageFile] = useState(null);
   const [imageURL, setImageURL] = useState("");
   const [isDragging, setIsDragging] = useState(false);
@@ -123,4 +123,4 @@ const UploadCardPhase1 = () => {
   );
 };
 
-export default UploadCardPhase1;
+export default UploadCard;
