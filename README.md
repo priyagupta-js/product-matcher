@@ -1,7 +1,5 @@
 # Visual Product Matcher
 
----
-
 ## Project Description
 
 The **Visual Product Matcher** is a web-based system that allows users to **upload an image or enter an image URL**, and instantly find **visually similar products** from a dataset or image collection.
