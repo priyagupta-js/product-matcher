@@ -1,7 +1,5 @@
 # Visual Product Matcher
 
-### Image Similarity Search with Product Metadata
-
 ---
 
 ## Project Description
